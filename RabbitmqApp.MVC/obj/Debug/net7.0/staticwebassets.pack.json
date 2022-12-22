@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RabbitmqApp.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RabbitmqApp.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\0f3853bd-dcca-4221-bbc0-38a1712f64dd.PNG",
+      "PackagePath": "staticwebassets\\Images\\0f3853bd-dcca-4221-bbc0-38a1712f64dd.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\13e4d830-c791-43e8-a150-4e069a31afb1.PNG",
+      "PackagePath": "staticwebassets\\Images\\13e4d830-c791-43e8-a150-4e069a31afb1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\2489b08c-5bf4-4cc3-927a-2659741499d2.PNG",
+      "PackagePath": "staticwebassets\\Images\\2489b08c-5bf4-4cc3-927a-2659741499d2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\2be916a5-6902-4cf9-8fb5-4b0a03ab39bd.avif",
+      "PackagePath": "staticwebassets\\Images\\2be916a5-6902-4cf9-8fb5-4b0a03ab39bd.avif"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\35ec7b27-9405-49a1-b990-a26fd42c109c.PNG",
+      "PackagePath": "staticwebassets\\Images\\35ec7b27-9405-49a1-b990-a26fd42c109c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\3640844c-ce95-45fe-a1da-cb80642e66c6.PNG",
+      "PackagePath": "staticwebassets\\Images\\3640844c-ce95-45fe-a1da-cb80642e66c6.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\5a502cd7-40a6-48dd-8c45-56bc4c2c8d4c.PNG",
+      "PackagePath": "staticwebassets\\Images\\5a502cd7-40a6-48dd-8c45-56bc4c2c8d4c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\0f3853bd-dcca-4221-bbc0-38a1712f64dd.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\0f3853bd-dcca-4221-bbc0-38a1712f64dd.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\13e4d830-c791-43e8-a150-4e069a31afb1.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\13e4d830-c791-43e8-a150-4e069a31afb1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\2489b08c-5bf4-4cc3-927a-2659741499d2.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\2489b08c-5bf4-4cc3-927a-2659741499d2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\35ec7b27-9405-49a1-b990-a26fd42c109c.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\35ec7b27-9405-49a1-b990-a26fd42c109c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\3640844c-ce95-45fe-a1da-cb80642e66c6.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\3640844c-ce95-45fe-a1da-cb80642e66c6.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\Images\\watermarks\\5a502cd7-40a6-48dd-8c45-56bc4c2c8d4c.PNG",
+      "PackagePath": "staticwebassets\\Images\\watermarks\\5a502cd7-40a6-48dd-8c45-56bc4c2c8d4c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatih\\source\\repos\\RabbitmqApp\\RabbitmqApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RabbitmqApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RabbitmqApp.MVC.props",
+      "PackagePath": "build\\RabbitmqApp.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RabbitmqApp.MVC.props",
+      "PackagePath": "buildMultiTargeting\\RabbitmqApp.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RabbitmqApp.MVC.props",
+      "PackagePath": "buildTransitive\\RabbitmqApp.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
