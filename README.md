@@ -5,6 +5,8 @@ Microsoft.Entityframework.InMemory kullanıldığından dolayı kolaylıkla proj
 
 ## Uygulama ile ilgili resimler ##
 
+![1](https://user-images.githubusercontent.com/68101192/209282507-570b3c8c-f260-437d-925b-be0087ed8c6b.png)
+![3](https://user-images.githubusercontent.com/68101192/209282587-09bcacba-6a03-4453-be28-7855e6b2143e.PNG)
 ![4](https://user-images.githubusercontent.com/68101192/209282359-9edde979-873a-4236-b017-917e7d9d9416.png)
 ![5](https://user-images.githubusercontent.com/68101192/209282368-994049bc-65b2-4c2a-bbb2-5ed1a68a9f5f.png)
 ![6](https://user-images.githubusercontent.com/68101192/209282371-d79e6d50-d829-4699-8fb6-4a16b352f94f.png)
